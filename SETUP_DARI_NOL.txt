@@ -1,0 +1,101 @@
+XI - AKL 1 — LANGKAH DARI NOL SAMPAI ONLINE
+
+A. FILE YANG SUDAH DIBUAT
+1. data/site.json = data awal website
+2. backend/src/index.js = API aman untuk login + simpan ke GitHub
+3. backend/wrangler.jsonc = konfigurasi Cloudflare Worker
+4. backend/.dev.vars.example = contoh nama secret
+5. js/config.js = tempat URL Worker
+6. js/cloud.js = penghubung website dengan Worker
+7. backend/.gitignore + .gitignore = mencegah secret ikut terupload
+
+B. BUAT REPOSITORY GITHUB
+1. Login GitHub.
+2. Buat repository baru, contoh: xi-akl-1
+3. Upload SELURUH isi folder website ini ke branch main.
+4. Pastikan data/site.json ikut terupload.
+
+C. AKTIFKAN GITHUB PAGES
+1. Buka repository → Settings → Pages.
+2. Build and deployment → Source: Deploy from a branch.
+3. Branch: main.
+4. Folder: /(root).
+5. Save.
+6. Tunggu sampai alamat GitHub Pages aktif.
+
+D. BUAT TOKEN GITHUB
+1. Buat Fine-grained Personal Access Token.
+2. Batasi hanya ke repository xi-akl-1.
+3. Permission repository: Contents = Read and write.
+4. JANGAN memasukkan token ke HTML/JS frontend.
+
+E. SIAPKAN CLOUDFLARE WORKER
+1. Install Node.js.
+2. Buka Terminal / PowerShell.
+3. Masuk ke folder backend.
+4. Jalankan:
+   npm install
+   npx wrangler login
+
+F. EDIT backend/wrangler.jsonc
+Ganti:
+PUBLIC_ORIGIN = alamat GitHub Pages kamu
+GITHUB_OWNER = username GitHub kamu
+GITHUB_REPO = xi-akl-1
+GITHUB_BRANCH = main
+
+G. MASUKKAN SECRET
+Di folder backend jalankan satu per satu:
+   npx wrangler secret put GITHUB_TOKEN
+   npx wrangler secret put ADMIN_USERNAME
+   npx wrangler secret put ADMIN_PASSWORD
+   npx wrangler secret put SESSION_SECRET
+
+Isi:
+GITHUB_TOKEN = token GitHub
+ADMIN_USERNAME = ARYA
+ADMIN_PASSWORD = arya1140
+SESSION_SECRET = string acak panjang minimal sekitar 40 karakter
+
+H. DEPLOY WORKER
+   npx wrangler deploy
+
+Catat URL Worker yang diberikan Cloudflare.
+Contoh:
+https://xi-akl-1-api.nama-subdomain.workers.dev
+
+I. HUBUNGKAN WEBSITE
+Buka js/config.js.
+Ubah:
+window.AKL_API_URL = "https://GANTI-DENGAN-URL-WORKER-ANDA";
+menjadi URL Worker kamu.
+
+J. PUSH PERUBAHAN KE GITHUB
+Upload/commit js/config.js yang sudah diisi URL Worker.
+Jangan upload token atau password rahasia.
+
+K. TES
+1. Buka website GitHub Pages.
+2. Klik Admin.
+3. Login ARYA / arya1140.
+4. Ubah jadwal/profil/tugas/piket/kas.
+5. Klik Simpan.
+6. Cek repository GitHub → data/site.json.
+7. Harus muncul commit baru.
+8. Tes dari perangkat/browser lain.
+9. Tes upload foto siswa dan foto galeri.
+
+L. JIKA DATA BELUM BERUBAH
+1. Cek js/config.js benar-benar memakai URL Worker.
+2. Buka URL Worker + /api/health.
+3. Pastikan hasilnya menunjukkan ok: true.
+4. Pastikan PUBLIC_ORIGIN di Worker sama persis dengan alamat GitHub Pages.
+5. Pastikan token GitHub mempunyai Contents: Read and write pada repository yang benar.
+6. Pastikan branch di wrangler.jsonc sama dengan branch repository.
+
+CATATAN PENTING
+- Token GitHub harus tetap menjadi Cloudflare Secret.
+- Jangan menaruh token di js/config.js.
+- Jangan upload backend/.dev.vars.
+- Perubahan data akan menjadi commit di GitHub.
+- GitHub Pages dapat membutuhkan waktu sebentar setelah commit sebelum perubahan terlihat.

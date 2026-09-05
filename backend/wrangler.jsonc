@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developers.cloudflare.com/workers/wrangler/config-schema.json",
+  "name": "xi-akl-1-api",
+  "main": "src/index.js",
+  "compatibility_date": "2026-09-05",
+  "vars": {
+    "PUBLIC_ORIGIN": "https://USERNAME.github.io",
+    "GITHUB_OWNER": "USERNAME",
+    "GITHUB_REPO": "xi-akl-1",
+    "GITHUB_BRANCH": "main",
+    "DATA_PATH": "data/site.json",
+    "COMMITTER_NAME": "XI AKL 1 Admin",
+    "COMMITTER_EMAIL": "xi-akl-1-admin@example.com"
+  },
+  "secrets": {
+    "required": ["GITHUB_TOKEN", "ADMIN_USERNAME", "ADMIN_PASSWORD", "SESSION_SECRET"]
+  }
+}

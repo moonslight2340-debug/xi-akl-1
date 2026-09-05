@@ -1,0 +1,1 @@
+Data website XI-AKL 1. File ini dikelola otomatis oleh backend saat Admin menyimpan perubahan. Jangan edit manual jika website sudah memakai API.

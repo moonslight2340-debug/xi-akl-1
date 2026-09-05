@@ -1,0 +1,580 @@
+{
+  "home": {
+    "title": "XI - AKL 1",
+    "motto": "AKL 1 JUARA 1",
+    "description": "Satu kelas, satu cerita, satu semangat untuk terus tumbuh, belajar, dan jadi juara."
+  },
+  "profile": {
+    "wali": "Rina Agustina S.Pd",
+    "school": "SMKN 22 Jakarta",
+    "chairman": "Isi nama di sini",
+    "vice": "Isi nama di sini",
+    "secretary": "Isi nama di sini",
+    "treasurer": "Isi nama di sini"
+  },
+  "schedule": {
+    "Senin": [
+      "Komputer Akuntansi",
+      "PJDM",
+      "BP/BK",
+      "Bahasa Indonesia"
+    ],
+    "Selasa": [
+      "Mapel Pilihan AK",
+      "Kreativitas, Inovasi, dan Kewirausahaan",
+      "Pendidikan Agama Dan Budi Pekerti",
+      "Akuntansi Keuangan"
+    ],
+    "Rabu": [
+      "Matematika",
+      "PJDM",
+      "Administrasi Pajak",
+      "Sejarah"
+    ],
+    "Kamis": [
+      "Komputer Akuntansi",
+      "PJOK",
+      "Akuntansi Keuangan",
+      "Bahasa Inggris",
+      "PPKN"
+    ],
+    "Jumat": [
+      "Kreativitas, Inovasi, dan Kewirausahaan",
+      "Administrasi Pajak",
+      "Bahasa Inggris",
+      "Mapel Pilihan AK"
+    ]
+  },
+  "tasks": [
+    {
+      "type": "TUGAS",
+      "title": "Latihan Akuntansi",
+      "desc": "Tambahkan deskripsi tugas dan link pengumpulan di sini.",
+      "deadline": "Deadline: Isi tanggal"
+    },
+    {
+      "type": "MATERI",
+      "title": "Materi Pembelajaran",
+      "desc": "Tambahkan link Google Drive, PDF, atau sumber belajar.",
+      "deadline": "Update: Isi tanggal"
+    },
+    {
+      "type": "TUGAS",
+      "title": "Proyek Kelompok",
+      "desc": "Tambahkan anggota kelompok dan instruksi proyek.",
+      "deadline": "Deadline: Isi tanggal"
+    }
+  ],
+  "piket": {
+    "Senin": [
+      "HAIKAL",
+      "DAFA",
+      "ARGYA",
+      "ERSA",
+      "ARYA",
+      "DARRIS",
+      "DZAKI",
+      "RAMADHAN"
+    ],
+    "Selasa": [
+      "ADISKHA",
+      "SAJA",
+      "RISSA",
+      "TIFANY",
+      "APPRISCA",
+      "INTAN",
+      "EZALEA"
+    ],
+    "Rabu": [
+      "DEWI",
+      "RIZKA NURAINI",
+      "DIVA",
+      "RIRI",
+      "NAJWA",
+      "NURI",
+      "ZAHRA"
+    ],
+    "Kamis": [
+      "WAODE",
+      "CALYA",
+      "RIZKA DEWI",
+      "JIHAN",
+      "KHINANTI",
+      "NELDYA",
+      "OCTHA"
+    ],
+    "Jumat": [
+      "ADINDA",
+      "NAZWATUL",
+      "JAHRA",
+      "LIDYA",
+      "TIKA",
+      "FARIDAH",
+      "AFIQA"
+    ]
+  },
+  "cash": {
+    "income": 540000,
+    "expense": 75000
+  },
+  "galleryLabels": [
+    [
+      "📸",
+      "Foto Kelas"
+    ],
+    [
+      "📸",
+      "Kegiatan"
+    ],
+    [
+      "📸",
+      "Sekolah"
+    ],
+    [
+      "📸",
+      "Lomba"
+    ],
+    [
+      "📸",
+      "Belajar"
+    ],
+    [
+      "📸",
+      "Kenangan"
+    ],
+    [
+      "📸",
+      "Teman"
+    ],
+    [
+      "📸",
+      "Proyek"
+    ],
+    [
+      "📸",
+      "Kreativitas"
+    ],
+    [
+      "📸",
+      "Musik"
+    ],
+    [
+      "📸",
+      "Olahraga"
+    ],
+    [
+      "📸",
+      "Study Tour"
+    ],
+    [
+      "📸",
+      "Praktikum"
+    ],
+    [
+      "📸",
+      "Perpustakaan"
+    ],
+    [
+      "📸",
+      "Literasi"
+    ],
+    [
+      "📸",
+      "Kebersamaan"
+    ],
+    [
+      "📸",
+      "Kedisiplinan"
+    ],
+    [
+      "📸",
+      "Motivasi"
+    ],
+    [
+      "📸",
+      "Organisasi"
+    ],
+    [
+      "📸",
+      "Kepedulian"
+    ],
+    [
+      "📸",
+      "Kebersihan"
+    ],
+    [
+      "📸",
+      "Keamanan"
+    ],
+    [
+      "📸",
+      "Dokumentasi"
+    ],
+    [
+      "📸",
+      "Inspirasi"
+    ],
+    [
+      "📸",
+      "Kelas Kita"
+    ],
+    [
+      "📸",
+      "Quotes"
+    ],
+    [
+      "📸",
+      "Doa Bersama"
+    ],
+    [
+      "📸",
+      "Jurnal Kelas"
+    ],
+    [
+      "📸",
+      "Catatan Penting"
+    ],
+    [
+      "📸",
+      "Info Penting"
+    ],
+    [
+      "📸",
+      "Agenda Kelas"
+    ],
+    [
+      "📸",
+      "Penghargaan"
+    ],
+    [
+      "📸",
+      "Ucapan"
+    ],
+    [
+      "📸",
+      "Games Edu"
+    ],
+    [
+      "📸",
+      "Wall of Fame"
+    ],
+    [
+      "📸",
+      "Hari Spesial"
+    ],
+    [
+      "📸",
+      "Tim Kelas"
+    ],
+    [
+      "📸",
+      "Bank Soal"
+    ],
+    [
+      "📸",
+      "Video Kelas"
+    ],
+    [
+      "📸",
+      "Refleksi"
+    ],
+    [
+      "📸",
+      "Ekskul"
+    ],
+    [
+      "📸",
+      "Karya Siswa"
+    ],
+    [
+      "📸",
+      "Saran Guru"
+    ],
+    [
+      "📸",
+      "Kontak"
+    ],
+    [
+      "📸",
+      "Website Kelas"
+    ],
+    [
+      "📸",
+      "Pengumuman"
+    ],
+    [
+      "📸",
+      "Polling"
+    ],
+    [
+      "📸",
+      "Survey"
+    ],
+    [
+      "📸",
+      "Live Update"
+    ],
+    [
+      "📸",
+      "Lainnya"
+    ]
+  ],
+  "studentNames": {
+    "adinda-khairunnisya": "ADINDA KHAIRUNNISYA",
+    "adiskha-mauliddya-arbah": "ADISKHA MAULIDDYA ARBAH",
+    "afiqa-fathina-yasmin": "AFIQA FATHINA YASMIN",
+    "apprisca-widyastuti": "APPRISCA WIDYASTUTI",
+    "argya-sanggar-agusti": "ARGYA SANGGAR AGUSTI",
+    "arya-pratama": "ARYA PRATAMA",
+    "calya-dwi-putri-wiguna": "CALYA DWI PUTRI WIGUNA",
+    "dafa-rizaldi": "DAFA RIZALDI",
+    "darris-athalla-ramdhan": "DARRIS ATHALLA RAMDHAN",
+    "dewi-fadila": "DEWI FADILA",
+    "ersa-ekarini": "ERSA EKARINI",
+    "ezalea-intan-zahra": "EZALEA INTAN ZAHRA",
+    "faridah": "FARIDAH",
+    "haikal-al-gifari-wibowo": "HAIKAL AL GIFARI WIBOWO",
+    "intan-imarizkya": "INTAN IMARIZKYA",
+    "isyfiyani-aulia-diva": "ISYFIYANI AULIA DIVA",
+    "jahra-kamila": "JAHRA KAMILA",
+    "jihan-riskia-maulida": "JIHAN RISKIA MAULIDA",
+    "khinanti-aisyafa-agustia-zahra": "KHINANTI AISYAFA AGUSTIA ZAHRA",
+    "lidya-cintya-kumalasari": "LIDYA CINTYA KUMALASARI",
+    "muhammad-dzaki": "MUHAMMAD DZAKI",
+    "muhammad-ramadhan": "MUHAMMAD RAMADHAN",
+    "najwa-putri-maharani": "NAJWA PUTRI MAHARANI",
+    "nazwatul-nuralifah": "NAZWATUL NURALIFAH",
+    "neldya-putri-zulita": "NELDYA PUTRI ZULITA",
+    "nuri": "NURI",
+    "nuri-octhavia-lingga": "NURI OCTHAVIA LINGGA",
+    "nurita-aksari": "NURITA AKSARI",
+    "rissa-mulyani": "RISSA MULYANI",
+    "rizka-dewi-supriyadi": "RIZKA DEWI SUPRIYADI",
+    "rizka-nuraini": "RIZKA NURAINI",
+    "tifany-rahmita": "TIFANY RAHMITA",
+    "tika-octaviani-yusyady": "TIKA OCTAVIANI YUSYADY",
+    "umniyyah-sulthanah-saja": "UMNIYYAH SULTHANAH SAJA",
+    "waode-bunga-lestari": "WAODE BUNGA LESTARI",
+    "zahra-maharani": "ZAHRA MAHARANI"
+  },
+  "students": {
+    "adinda-khairunnisya": {
+      "name": "ADINDA KHAIRUNNISYA",
+      "birth": "Belum diisi",
+      "motto": "Belum diisi",
+      "photo": ""
+    },
+    "adiskha-mauliddya-arbah": {
+      "name": "ADISKHA MAULIDDYA ARBAH",
+      "birth": "Belum diisi",
+      "motto": "Belum diisi",
+      "photo": ""
+    },
+    "afiqa-fathina-yasmin": {
+      "name": "AFIQA FATHINA YASMIN",
+      "birth": "Belum diisi",
+      "motto": "Belum diisi",
+      "photo": ""
+    },
+    "apprisca-widyastuti": {
+      "name": "APPRISCA WIDYASTUTI",
+      "birth": "Belum diisi",
+      "motto": "Belum diisi",
+      "photo": ""
+    },
+    "argya-sanggar-agusti": {
+      "name": "ARGYA SANGGAR AGUSTI",
+      "birth": "Belum diisi",
+      "motto": "Belum diisi",
+      "photo": ""
+    },
+    "arya-pratama": {
+      "name": "ARYA PRATAMA",
+      "birth": "Belum diisi",
+      "motto": "Belum diisi",
+      "photo": ""
+    },
+    "calya-dwi-putri-wiguna": {
+      "name": "CALYA DWI PUTRI WIGUNA",
+      "birth": "Belum diisi",
+      "motto": "Belum diisi",
+      "photo": ""
+    },
+    "dafa-rizaldi": {
+      "name": "DAFA RIZALDI",
+      "birth": "Belum diisi",
+      "motto": "Belum diisi",
+      "photo": ""
+    },
+    "darris-athalla-ramdhan": {
+      "name": "DARRIS ATHALLA RAMDHAN",
+      "birth": "Belum diisi",
+      "motto": "Belum diisi",
+      "photo": ""
+    },
+    "dewi-fadila": {
+      "name": "DEWI FADILA",
+      "birth": "Belum diisi",
+      "motto": "Belum diisi",
+      "photo": ""
+    },
+    "ersa-ekarini": {
+      "name": "ERSA EKARINI",
+      "birth": "Belum diisi",
+      "motto": "Belum diisi",
+      "photo": ""
+    },
+    "ezalea-intan-zahra": {
+      "name": "EZALEA INTAN ZAHRA",
+      "birth": "Belum diisi",
+      "motto": "Belum diisi",
+      "photo": ""
+    },
+    "faridah": {
+      "name": "FARIDAH",
+      "birth": "Belum diisi",
+      "motto": "Belum diisi",
+      "photo": ""
+    },
+    "haikal-al-gifari-wibowo": {
+      "name": "HAIKAL AL GIFARI WIBOWO",
+      "birth": "Belum diisi",
+      "motto": "Belum diisi",
+      "photo": ""
+    },
+    "intan-imarizkya": {
+      "name": "INTAN IMARIZKYA",
+      "birth": "Belum diisi",
+      "motto": "Belum diisi",
+      "photo": ""
+    },
+    "isyfiyani-aulia-diva": {
+      "name": "ISYFIYANI AULIA DIVA",
+      "birth": "Belum diisi",
+      "motto": "Belum diisi",
+      "photo": ""
+    },
+    "jahra-kamila": {
+      "name": "JAHRA KAMILA",
+      "birth": "Belum diisi",
+      "motto": "Belum diisi",
+      "photo": ""
+    },
+    "jihan-riskia-maulida": {
+      "name": "JIHAN RISKIA MAULIDA",
+      "birth": "Belum diisi",
+      "motto": "Belum diisi",
+      "photo": ""
+    },
+    "khinanti-aisyafa-agustia-zahra": {
+      "name": "KHINANTI AISYAFA AGUSTIA ZAHRA",
+      "birth": "Belum diisi",
+      "motto": "Belum diisi",
+      "photo": ""
+    },
+    "lidya-cintya-kumalasari": {
+      "name": "LIDYA CINTYA KUMALASARI",
+      "birth": "Belum diisi",
+      "motto": "Belum diisi",
+      "photo": ""
+    },
+    "muhammad-dzaki": {
+      "name": "MUHAMMAD DZAKI",
+      "birth": "Belum diisi",
+      "motto": "Belum diisi",
+      "photo": ""
+    },
+    "muhammad-ramadhan": {
+      "name": "MUHAMMAD RAMADHAN",
+      "birth": "Belum diisi",
+      "motto": "Belum diisi",
+      "photo": ""
+    },
+    "najwa-putri-maharani": {
+      "name": "NAJWA PUTRI MAHARANI",
+      "birth": "Belum diisi",
+      "motto": "Belum diisi",
+      "photo": ""
+    },
+    "nazwatul-nuralifah": {
+      "name": "NAZWATUL NURALIFAH",
+      "birth": "Belum diisi",
+      "motto": "Belum diisi",
+      "photo": ""
+    },
+    "neldya-putri-zulita": {
+      "name": "NELDYA PUTRI ZULITA",
+      "birth": "Belum diisi",
+      "motto": "Belum diisi",
+      "photo": ""
+    },
+    "nuri": {
+      "name": "NURI",
+      "birth": "Belum diisi",
+      "motto": "Belum diisi",
+      "photo": ""
+    },
+    "nuri-octhavia-lingga": {
+      "name": "NURI OCTHAVIA LINGGA",
+      "birth": "Belum diisi",
+      "motto": "Belum diisi",
+      "photo": ""
+    },
+    "nurita-aksari": {
+      "name": "NURITA AKSARI",
+      "birth": "Belum diisi",
+      "motto": "Belum diisi",
+      "photo": ""
+    },
+    "rissa-mulyani": {
+      "name": "RISSA MULYANI",
+      "birth": "Belum diisi",
+      "motto": "Belum diisi",
+      "photo": ""
+    },
+    "rizka-dewi-supriyadi": {
+      "name": "RIZKA DEWI SUPRIYADI",
+      "birth": "Belum diisi",
+      "motto": "Belum diisi",
+      "photo": ""
+    },
+    "rizka-nuraini": {
+      "name": "RIZKA NURAINI",
+      "birth": "Belum diisi",
+      "motto": "Belum diisi",
+      "photo": ""
+    },
+    "tifany-rahmita": {
+      "name": "TIFANY RAHMITA",
+      "birth": "Belum diisi",
+      "motto": "Belum diisi",
+      "photo": ""
+    },
+    "tika-octaviani-yusyady": {
+      "name": "TIKA OCTAVIANI YUSYADY",
+      "birth": "Belum diisi",
+      "motto": "Belum diisi",
+      "photo": ""
+    },
+    "umniyyah-sulthanah-saja": {
+      "name": "UMNIYYAH SULTHANAH SAJA",
+      "birth": "Belum diisi",
+      "motto": "Belum diisi",
+      "photo": ""
+    },
+    "waode-bunga-lestari": {
+      "name": "WAODE BUNGA LESTARI",
+      "birth": "Belum diisi",
+      "motto": "Belum diisi",
+      "photo": ""
+    },
+    "zahra-maharani": {
+      "name": "ZAHRA MAHARANI",
+      "birth": "Belum diisi",
+      "motto": "Belum diisi",
+      "photo": ""
+    }
+  },
+  "galleryPhotos": {},
+  "aspirations": []
+}
