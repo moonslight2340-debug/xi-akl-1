@@ -58,6 +58,7 @@
       sessionStorage.setItem(SESSION,"1");
       if(typeof window.closeModal==="function") window.closeModal(document.getElementById("loginModal"));
       if(typeof window.buildAdminDashboard==="function") window.buildAdminDashboard();
+      if(typeof window.renderGalleryAdminAware==="function") window.renderGalleryAdminAware();
       if(typeof window.openModal==="function") window.openModal(document.getElementById("adminModal"));
       if(typeof window.toast==="function") window.toast("Login admin berhasil 👋");
     }catch(err){if(typeof window.toast==="function")window.toast(err.message||"Login gagal")}
@@ -67,6 +68,7 @@
     if(e.target.closest?.("#logoutBtn")){
       api("/api/logout",{method:"POST"}).catch(()=>{});
       sessionStorage.removeItem(SESSION);
+      if(typeof window.renderGalleryAdminAware==="function") window.renderGalleryAdminAware();
     }
   },true);
   // Profil siswa.
