@@ -575,6 +575,8 @@
       "photo": ""
     }
   },
-  "galleryPhotos": {},
+  "galleryPhotos": {
+    "1": "assets/img/gallery/slot-1.jpg"
+  },
   "aspirations": []
 }
