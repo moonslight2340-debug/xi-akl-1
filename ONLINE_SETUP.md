@@ -98,3 +98,10 @@ Simpan, lalu commit/push file ke GitHub.
 - Token GitHub hanya berada di Cloudflare Worker Secret.
 - `data/site.json` boleh dibaca publik karena website memang membutuhkannya; rahasia login dan token tidak disimpan di sana.
 - Jangan commit `.dev.vars` atau file yang berisi token.
+
+
+Fitur Galeri Dinamis:
+- Galeri dimulai dengan 50 kotak foto.
+- Jika semua kotak sudah terisi foto, Admin akan melihat tombol "＋ Tambah Kotak Foto" di halaman Galeri.
+- Klik tombol tersebut untuk menambah satu slot baru. Nama awal slot baru adalah "Foto Baru N" dan dapat diubah dari Dashboard Admin.
+- Slot baru disimpan di data/site.json melalui backend/GitHub ketika fitur online aktif.

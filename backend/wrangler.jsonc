@@ -4,8 +4,8 @@
   "main": "src/index.js",
   "compatibility_date": "2026-09-05",
   "vars": {
-    "PUBLIC_ORIGIN": "https://moonslight2340-debug.github.io",
-    "GITHUB_OWNER": "moonslight2340-debug",
+    "PUBLIC_ORIGIN": "https://USERNAME.github.io",
+    "GITHUB_OWNER": "USERNAME",
     "GITHUB_REPO": "xi-akl-1",
     "GITHUB_BRANCH": "main",
     "DATA_PATH": "data/site.json",

@@ -39,3 +39,10 @@ V17 UPDATE:
 - Ditambahkan tombol ↻ Refresh pada navigasi setiap halaman untuk memuat ulang halaman dan mengambil data terbaru dari browser.
 
 V18: Menambahkan tombol "Kembali ke Beranda" pada semua page selain Beranda.
+
+
+Fitur Galeri Dinamis:
+- Galeri dimulai dengan 50 kotak foto.
+- Jika semua kotak sudah terisi foto, Admin akan melihat tombol "＋ Tambah Kotak Foto" di halaman Galeri.
+- Klik tombol tersebut untuk menambah satu slot baru. Nama awal slot baru adalah "Foto Baru N" dan dapat diubah dari Dashboard Admin.
+- Slot baru disimpan di data/site.json melalui backend/GitHub ketika fitur online aktif.

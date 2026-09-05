@@ -503,3 +503,9 @@ main>.section{min-height:calc(100vh - 80px);display:block}
 .back-home-btn:hover{transform:translateY(-2px);box-shadow:0 10px 22px rgba(20,75,94,.12);background:#fff}
 .back-home-btn:focus-visible{outline:3px solid rgba(49,112,169,.22);outline-offset:2px}
 @media(max-width:700px){.back-home-wrap{padding:0 14px;margin-top:10px}.back-home-btn{padding:9px 13px;font-size:11px}}
+
+/* Gallery dynamic slots */
+.gallery-toolbar{flex-wrap:wrap;gap:10px}
+.gallery-add-btn{margin-left:auto}
+.hidden{display:none!important}
+.gallery-item{position:relative;overflow:hidden}
