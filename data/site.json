@@ -114,8 +114,8 @@
     ]
   },
   "cash": {
-    "income": 540000,
-    "expense": 75000
+    "income": 100000,
+    "expense": 100000
   },
   "galleryLabels": [
     [
@@ -360,211 +360,211 @@
   "students": {
     "adinda-khairunnisya": {
       "name": "ADINDA KHAIRUNNISYA",
-      "birth": "Belum diisi",
+      "birth": "Jakarta, 18 Agustus 2009",
       "motto": "Belum diisi",
       "photo": "assets/img/students/adinda-khairunnisya.jpg"
     },
     "adiskha-mauliddya-arbah": {
       "name": "ADISKHA MAULIDDYA ARBAH",
-      "birth": "Belum diisi",
+      "birth": "Jakarta, 23 Maret 2009",
       "motto": "Belum diisi",
       "photo": "assets/img/students/adiskha-mauliddya-arbah.jpg"
     },
     "afiqa-fathina-yasmin": {
       "name": "AFIQA FATHINA YASMIN",
-      "birth": "Belum diisi",
+      "birth": "Jakarta, 31 Maret 2009",
       "motto": "Belum diisi",
       "photo": "assets/img/students/afiqa-fathina-yasmin.jpg"
     },
     "apprisca-widyastuti": {
       "name": "APPRISCA WIDYASTUTI",
-      "birth": "Belum diisi",
+      "birth": "Jakarta, 12 April 2009",
       "motto": "Belum diisi",
       "photo": "assets/img/students/apprisca-widyastuti.jpg"
     },
     "argya-sanggar-agusti": {
       "name": "ARGYA SANGGAR AGUSTI",
-      "birth": "Belum diisi",
+      "birth": "Jakarta, 1 Maret 2009",
       "motto": "Belum diisi",
       "photo": "assets/img/students/argya-sanggar-agusti.jpg"
     },
     "arya-pratama": {
       "name": "ARYA PRATAMA",
-      "birth": "Belum diisi",
+      "birth": "Boyolali, 20 Oktober 2008",
       "motto": "Belum diisi",
       "photo": "assets/img/students/arya-pratama.jpg"
     },
     "calya-dwi-putri-wiguna": {
       "name": "CALYA DWI PUTRI WIGUNA",
-      "birth": "Belum diisi",
+      "birth": "Bekasi, 21 Desember 2010",
       "motto": "Belum diisi",
       "photo": "assets/img/students/calya-dwi-putri-wiguna.jpg"
     },
     "dafa-rizaldi": {
       "name": "DAFA RIZALDI",
-      "birth": "Belum diisi",
+      "birth": "Jakarta, 16 Januari 2008",
       "motto": "Belum diisi",
       "photo": "assets/img/students/dafa-rizaldi.jpg"
     },
     "darris-athalla-ramdhan": {
       "name": "DARRIS ATHALLA RAMDHAN",
-      "birth": "Belum diisi",
+      "birth": "Jakarta, 17 September 2009",
       "motto": "Belum diisi",
       "photo": "assets/img/students/darris-athalla-ramdhan.jpg"
     },
     "dewi-fadila": {
       "name": "DEWI FADILA",
-      "birth": "Belum diisi",
+      "birth": "Jakarta, 10 Agustus 2008",
       "motto": "Belum diisi",
       "photo": "assets/img/students/dewi-fadila.jpg"
     },
     "ersa-ekarini": {
       "name": "ERSA EKARINI",
-      "birth": "Belum diisi",
+      "birth": "Kebumen, 29 Desember 2006",
       "motto": "Belum diisi",
       "photo": "assets/img/students/ersa-ekarini.jpg"
     },
     "ezalea-intan-zahra": {
       "name": "EZALEA INTAN ZAHRA",
-      "birth": "Belum diisi",
+      "birth": "Jakarta, 1 Maret 2009",
       "motto": "Belum diisi",
       "photo": "assets/img/students/ezalea-intan-zahra.jpg"
     },
     "faridah": {
       "name": "FARIDAH",
-      "birth": "Belum diisi",
+      "birth": "Jakarta, 17 April 2010",
       "motto": "Belum diisi",
       "photo": "assets/img/students/faridah.jpg"
     },
     "haikal-al-gifari-wibowo": {
       "name": "HAIKAL AL GIFARI WIBOWO",
-      "birth": "Belum diisi",
+      "birth": "Jakarta, 8 Agustus 2009",
       "motto": "Belum diisi",
       "photo": "assets/img/students/haikal-al-gifari-wibowo.jpg"
     },
     "intan-imarizkya": {
       "name": "INTAN IMARIZKYA",
-      "birth": "Belum diisi",
+      "birth": "Wonosobo, 19 Juni 2009",
       "motto": "Belum diisi",
       "photo": "assets/img/students/intan-imarizkya.jpg"
     },
     "isyfiyani-aulia-diva": {
       "name": "ISYFIYANI AULIA DIVA",
-      "birth": "Belum diisi",
+      "birth": "Jakarta, 14 Februari 2010",
       "motto": "Belum diisi",
       "photo": "assets/img/students/diva.jpg"
     },
     "jahra-kamila": {
       "name": "JAHRA KAMILA",
-      "birth": "Belum diisi",
+      "birth": "Jakarta, 10 November 2009",
       "motto": "Belum diisi",
       "photo": "assets/img/students/jahra-kamila.jpg"
     },
     "jihan-riskia-maulida": {
       "name": "JIHAN RISKIA MAULIDA",
-      "birth": "Belum diisi",
+      "birth": "Jakarta, 1 Maret 2010",
       "motto": "Belum diisi",
       "photo": "assets/img/students/jihan-riskia-maulida.jpg"
     },
     "khinanti-aisyafa-agustia-zahra": {
       "name": "KHINANTI AISYAFA AGUSTIA ZAHRA",
-      "birth": "Belum diisi",
+      "birth": "Kediri, 14 Agustus 2009",
       "motto": "Belum diisi",
       "photo": "assets/img/students/khinanti-aisyafa-agustia-zahra.jpg"
     },
     "lidya-cintya-kumalasari": {
       "name": "LIDYA CINTYA KUMALASARI",
-      "birth": "Belum diisi",
+      "birth": "Jakarta, 14 Mei 2009",
       "motto": "Belum diisi",
       "photo": "assets/img/students/lidya-cintya-kumalasari.jpg"
     },
     "muhammad-dzaki": {
       "name": "MUHAMMAD DZAKI",
-      "birth": "Belum diisi",
+      "birth": "Jakarta, 25 Maret 2010",
       "motto": "Belum diisi",
       "photo": "assets/img/students/muhammad-dzaki.jpg"
     },
     "muhammad-ramadhan": {
       "name": "MUHAMMAD RAMADHAN",
-      "birth": "Belum diisi",
+      "birth": "Jakarta, 25 Agustus 2009",
       "motto": "Belum diisi",
       "photo": "assets/img/students/muhammad-ramadhan.jpg"
     },
     "najwa-putri-maharani": {
       "name": "NAJWA PUTRI MAHARANI",
-      "birth": "Belum diisi",
+      "birth": "Jakarta, 6 Desember 2009",
       "motto": "Belum diisi",
       "photo": "assets/img/students/najwa-putri-maharani.jpg"
     },
     "nazwatul-nuralifah": {
       "name": "NAZWATUL NURALIFAH",
-      "birth": "Belum diisi",
+      "birth": "Kuningan, 14 Juli 2009",
       "motto": "Belum diisi",
       "photo": "assets/img/students/nazwatul-nuralifah.jpg"
     },
     "neldya-putri-zulita": {
       "name": "NELDYA PUTRI ZULITA",
-      "birth": "Belum diisi",
+      "birth": "Bekasi, 3 Maret 2010",
       "motto": "Belum diisi",
       "photo": "assets/img/students/neldya-putri-zulita.jpg"
     },
     "nuri": {
       "name": "NURI",
-      "birth": "Belum diisi",
+      "birth": "Majalengka, 20 Juli 2008",
       "motto": "Belum diisi",
       "photo": "assets/img/students/nuri.jpg"
     },
     "nuri-octhavia-lingga": {
       "name": "NURI OCTHAVIA LINGGA",
-      "birth": "Belum diisi",
+      "birth": "Jakarta, 27 Oktober 2009",
       "motto": "Belum diisi",
       "photo": "assets/img/students/nuri-octhavia-lingga.jpg"
     },
     "nurita-aksari": {
       "name": "NURITA AKSARI",
-      "birth": "Belum diisi",
+      "birth": "Bogor, 24 September 2008",
       "motto": "Belum diisi",
       "photo": "assets/img/students/nurita-aksari.jpg"
     },
     "rissa-mulyani": {
       "name": "RISSA MULYANI",
-      "birth": "Belum diisi",
+      "birth": "Jakarta, 2 Januari 2009",
       "motto": "Belum diisi",
       "photo": "assets/img/students/rissa-mulyani.jpg"
     },
     "rizka-dewi-supriyadi": {
       "name": "RIZKA DEWI SUPRIYADI",
-      "birth": "Belum diisi",
+      "birth": "Jakarta, 7 September 2009",
       "motto": "Belum diisi",
       "photo": "assets/img/students/rizka-dewi-supriyadi.jpg"
     },
     "rizka-nuraini": {
       "name": "RIZKA NURAINI",
-      "birth": "Belum diisi",
+      "birth": "Jakarta, 29 Mei 2009",
       "motto": "Belum diisi",
       "photo": "assets/img/students/rizka-nuraini.jpg"
     },
     "tifany-rahmita": {
       "name": "TIFANY RAHMITA",
-      "birth": "Belum diisi",
+      "birth": "Jakarta, 23 November 2009",
       "motto": "Belum diisi",
       "photo": "assets/img/students/tifany-rahmita.jpg"
     },
     "tika-octaviani-yusyady": {
       "name": "TIKA OCTAVIANI YUSYADY",
-      "birth": "Belum diisi",
+      "birth": "Rembang, 15 Oktober 2009",
       "motto": "Belum diisi",
       "photo": "assets/img/students/tika-octaviani-yusyady.jpg"
     },
     "umniyyah-sulthanah-saja": {
       "name": "UMNIYYAH SULTHANAH SAJA",
-      "birth": "Belum diisi",
+      "birth": "Jakarta, 13 Mei 2009",
       "motto": "Belum diisi",
       "photo": "assets/img/students/umniyyah-sulthanah-saja.jpg"
     },
     "waode-bunga-lestari": {
       "name": "WAODE BUNGA LESTARI",
-      "birth": "Belum diisi",
+      "birth": "Jakarta, 25 Maret 2010",
       "motto": "Belum diisi",
       "photo": " assets/img/students/waode.jpg"
     },
